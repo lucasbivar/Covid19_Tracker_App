@@ -6,6 +6,7 @@ A tracking app made with flutter for tracking covid-19 cases around the Brazil!
 - Made with Flutter.
 - [COVID-19 Brazil API](https://github.com/devarthurribeiro/covid19-brazil-api) was used to provide the data.
 - The [Ministry of Health](https://coronavirus.saude.gov.br/sobre-a-doenca) web site was used to provide the guides.
+- You can download de apk [here](https://drive.google.com/file/d/1VQOlnI2_caUstCH1tzpMF4tPzsFXKS5B/view?usp=sharing)!
   
 ## 📸 Screenshots
 <p align="center">
@@ -20,3 +21,6 @@ A tracking app made with flutter for tracking covid-19 cases around the Brazil!
     <td align="center"><a href="https://github.com/lucasbivar"><img src="https://avatars0.githubusercontent.com/u/60802661?s=460&u=f0cdbe837dc717c91999b2255973fe9584a1d352&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Bivar</b></sub></a><br /><a href="https://github.com/lucasbivar" title="Code">💻</a></td>
   <tr>
 </table>
+
+***
+Feel free to star ⭐ this repository if you like what you see 😉.
