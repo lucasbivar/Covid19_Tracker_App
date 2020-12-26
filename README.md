@@ -1,4 +1,6 @@
 <center><img src="https://i.imgur.com/p1xWXJX.png" alt="covid-19 tracker"></center>
+<hr>
+
 # 📈 Covid-19 Brazil 
 A tracking app made with flutter for tracking covid-19 cases around the Brazil!
 
